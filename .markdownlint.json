@@ -1,0 +1,16 @@
+{
+  "default": true,
+  "MD013": { "line_length": 120, "code_blocks": false, "tables": false },
+  "MD022": { "lines_above": 1, "lines_below": 1 },
+  "MD032": true,
+  "MD034": true,
+  "MD047": true,
+  "MD009": { "strict": true },
+  "ignores": [
+    "node_modules",
+    "public",
+    "dist",
+    ".git",
+    ".github"
+  ]
+}
