@@ -93,11 +93,11 @@ fix: переместил файл
 
 ```text
 .github/            # GitHub Actions
-content/            # все артефакты нашей работы
-docs/               # правила работы
+files/content/      # все артефакты нашей работы
+files/docs/         # правила работы
+files/index.md      # копия README.md с измененными путями навигации
 .gitignore          # файлы, игнорируемые системой контроля версий
 .markdownlint.json  # Конфиг для markdownlint
-index.md            # Стартовая страница для GitHub Pages
 mkdocs.yml          # сайт на mkdocs для GitHub Pages
 README.md           # описание и навигация
 ```

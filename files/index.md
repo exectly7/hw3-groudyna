@@ -14,14 +14,14 @@
 
 ## Навигация по репозиторию
 
-- [Правила работы с репозиторием](files/docs/contribution.md)
+- [Правила работы с репозиторием](docs/contribution.md)
   — инструкция по именованию веток, коммитов и проведению ревью.
 
-- [Процесс работы команды (Workflow)](files/docs/workflow.md)
+- [Процесс работы команды (Workflow)](docs/workflow.md)
   — описание этапов проекта, ролей и порядка согласования изменений.
 
-- [CI/CD и GitLab Pages](files/docs/ci-cd.md)
+- [CI/CD и GitLab Pages](docs/ci-cd.md)
   — описание автоматических проверок и пайплайнов.
 
-- [Анкета для заказчика](files/content/questionnaire.md)
+- [Анкета для заказчика](content/questionnaire.md)
   — описание автоматических проверок и пайплайнов.
