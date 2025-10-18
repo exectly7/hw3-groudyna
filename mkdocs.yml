@@ -1,0 +1,14 @@
+site_name: Red Bulldog HW3
+site_url: https://exectly7.github.io/hw3-groudyna/ 
+repo_url: https://github.com/exectly7/hw3-groudyna
+
+docs_dir: .
+
+nav:
+  - Главная: index.md
+  - Документация:
+      - Процесс: docs/contribution.md
+      - Работа команды: docs/workflow.md
+      - CI/CD: docs/ci-cd.md
+  - Анкета: content/questionnaire.md
+  
