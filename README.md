@@ -37,7 +37,7 @@
 
 - [Финальная анкета](files/final/questionnaire-final.pdf)
 
-- [Финальная повестка рабочей встречи](files/final/interview-final.pdf)
+- [Финальная повестка рабочей встречи](files/final/interview-protocol-final.pdf)
 
 - [Финальный план коммуникаций](files/final/communication-plan-final.pdf)
 
