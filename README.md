@@ -25,8 +25,15 @@
 - [CI/CD и GitLab Pages](files/docs/ci-cd.md)
   — описание автоматических проверок и пайплайнов.
 
-- [Анкета для заказчика](files/content/questionnaire.md)
-  — описание автоматических проверок и пайплайнов.
+- [Анкета для заказчика](content/questionnaire.md)
+
+- [Заполненная анкета](content/questionnaire-filled.md)
+
+- [Повестка для встречи](content/interview-questions.md)
+
+- [Протокол встречи](content/interview-protocol.md)
+
+- [План коммуникаций](content/communication-plan.md)
 
 ## Участники проекта
 

@@ -24,4 +24,11 @@
   — описание автоматических проверок и пайплайнов.
 
 - [Анкета для заказчика](content/questionnaire.md)
-  — описание автоматических проверок и пайплайнов.
+
+- [Заполненная анкета](content/questionnaire-filled.md)
+
+- [Повестка для встречи](content/interview-questions.md)
+
+- [Протокол встречи](content/interview-protocol.md)
+
+- [План коммуникаций](content/communication-plan.md)
