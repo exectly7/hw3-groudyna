@@ -10,5 +10,13 @@ nav:
       - Процесс: docs/contribution.md
       - Работа команды: docs/workflow.md
       - CI/CD: docs/ci-cd.md
-  - Анкета: content/questionnaire.md
-  
+  - Содержание: 
+      - Анкета: content/questionnaire.md
+      - Заполненная анкета: content/questionnaire.md
+      - Повестка рабочей встречи: content/interview-questions.md
+      - Протокол рабочей встречи: content/interview-protocol.md
+      - План коммуникаций: content/interview-protocol.md
+  - Финальные варианты документов:
+      - Финальная анкета: final/questionnaire-final.md
+      - Финальная повестка рабочей встречи: final/interview-final.md
+      - Финальный план коммуникаций: final/communication-plan-final.md

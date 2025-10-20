@@ -26,7 +26,20 @@
   — описание автоматических проверок и пайплайнов.
 
 - [Анкета для заказчика](files/content/questionnaire.md)
-  — описание автоматических проверок и пайплайнов.
+
+- [Заполненная анкета](files/content/questionnaire-filled.md)
+
+- [Повестка для встречи](files/content/interview-questions.md)
+
+- [Протокол встречи](files/content/interview-protocol.md)
+
+- [План коммуникаций](files/content/communication-plan.md)
+
+- [Финальная анкета](files/final/questionnaire-final.md)
+
+- [Финальная повестка рабочей встречи](files/final/interview-final.md)
+
+- [Финальный план коммуникаций](files/final/communication-plan-final.md)
 
 ## Участники проекта
 
