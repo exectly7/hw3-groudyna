@@ -95,6 +95,7 @@ fix: переместил файл
 .github/            # GitHub Actions
 files/content/      # все артефакты нашей работы
 files/docs/         # правила работы
+files/final/        # итоговые подписанные документы
 files/index.md      # копия README.md с измененными путями навигации
 .gitignore          # файлы, игнорируемые системой контроля версий
 .markdownlint.json  # Конфиг для markdownlint
