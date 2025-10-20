@@ -33,8 +33,8 @@
 
 - [План коммуникаций](content/communication-plan.md)
 
-- [Финальная анкета](final/questionnaire-final.md)
+- [Финальная анкета](final/questionnaire-final.pdf)
 
-- [Финальная повестка рабочей встречи](final/interview-final.md)
+- [Финальная повестка рабочей встречи](final/interview-protocol-final.pdf)
 
-- [Финальный план коммуникаций](final/communication-plan-final.md)
+- [Финальный план коммуникаций](final/communication-plan-final.pdf)
