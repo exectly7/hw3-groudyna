@@ -35,11 +35,11 @@
 
 - [План коммуникаций](files/content/communication-plan.md)
 
-- [Финальная анкета](files/final/questionnaire-final.md)
+- [Финальная анкета](files/final/questionnaire-final.pdf)
 
-- [Финальная повестка рабочей встречи](files/final/interview-final.md)
+- [Финальная повестка рабочей встречи](files/final/interview-final.pdf)
 
-- [Финальный план коммуникаций](files/final/communication-plan-final.md)
+- [Финальный план коммуникаций](files/final/communication-plan-final.pdf)
 
 ## Участники проекта
 
